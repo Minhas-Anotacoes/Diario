@@ -1,0 +1,1 @@
+A página de revista da Dani foi a mais difícil de ser feita e se traduzida. Queria que o layout dela fosse caótico para combinar com o estilo de pensamento dela.

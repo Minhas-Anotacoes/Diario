@@ -1,0 +1,1 @@
+Estamos terminando o jogo... estamos ficando com sono e ainda são 20h00. Confesso que estou espalhando devlogs perdidos para que o GitHub não "denuncie" os últimos commits que fiz.. não quero que isso apareça pro jogador. Senão vai ser muito fácil encontrar todos os arquivos.
